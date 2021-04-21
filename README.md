@@ -8,5 +8,4 @@ Here you can find the codes for the algorithms of the following simulations:
 - Waves
 - Fluid
 
-to understand the meaning of all this download the application EGG:
-
+To understand the meaning of all this download the application EGG:
